@@ -5,3 +5,5 @@ hi there,
 its free coding friday. let's explore the world of git hub. 
 
 some text added.
+
+more text added.
